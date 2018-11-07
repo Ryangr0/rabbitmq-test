@@ -1,0 +1,1 @@
+docker exec -it -w /app app php one/send.php
